@@ -5,8 +5,8 @@ while (i <= 10) {
     i++;
 }
 // Display numbers from 5 to 15 and their cubes.
-let i = 5;
-while (i <= 15) {
-    console.log("Number:", i, "Cube:", i * i * i);
-    i++;
+let i2 = 5;
+while (i2 <= 15) {
+    console.log("Number:", i2, "Cube:", i2 * i2 * i2);
+    i2++;
 }
